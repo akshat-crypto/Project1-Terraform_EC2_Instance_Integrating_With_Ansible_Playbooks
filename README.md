@@ -1,6 +1,6 @@
 # Project1 Terraform EC2 Instance Integrating With Ansible Playbooks
 
-###PROJECT DESCRIPTION
+### PROJECT DESCRIPTION
 
 > In this project I have created a terraform script which will launch an ec2 instance with some basic configurations
 
